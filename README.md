@@ -1,59 +1,83 @@
-# 反AI运动
+# 反 AI 霸权
 
-## 简介
+主题是反对把 AI 变成资本压缩人力、转移责任、扩大监控和削弱网络安全岗位的工具。
 
-在这个人工智能迅速发展的时代，我们必须清醒地认识到：AI是人类创造的工具，旨在服务于人类，而不是替代人类的工作和创造力。近年来，多家知名科技公司如Google、Meta、Amazon、Microsoft等，因AI投资和转型而进行了大规模裁员，数万员工因此失业。这些事件凸显了AI发展中潜在的危机：技术进步不应以牺牲人类福祉为代价。
 
-## 我们的使命
+## 核心立场
 
-- **AI辅助而非替代**：强调AI应作为人类的助手，提升效率，而非取代人类岗位。
-- **保护人类就业**：反对盲目追求AI自动化导致的大规模失业。
-- **负责任的AI发展**：呼吁科技公司和政府制定政策，确保AI发展惠及所有人，而非少数人。
-- **人文关怀**：提醒社会，技术应服务于人类的核心价值，如创造力、同理心和社会连接。
+- 反对用 AI 作为裁员、降薪、外包和招聘冻结的借口
+- 反对“先上模型、后谈人”的组织逻辑
+- 反对把 AI 扩张和大规模监控绑定
+- 支持 AI 作为辅助工具，而不是替代人的判断、劳动和尊严
+- 程序员、测试、运维、数据、产品和安全人员唇亡齿寒，不能被分化对待
+- 在网络安全领域，支持用 AI 减少噪音和重复劳动，但反对因此削弱蓝队、SOC、应急响应和安全治理岗位
 
-## 最新裁员事件回顾
+##最新案例口径
 
-### 全球科技巨头裁员
-- **Google**：2023年底，Google宣布裁员约1.2万人，主要涉及工程和产品团队，许多与AI相关。
-- **Meta**：2023年，Meta裁员约1.1万人，部分原因是AI和元宇宙投资调整。
-- **Amazon**：2023年，Amazon裁员约2.7万人，包括Alexa和广告部门，AI优化是因素之一。
-- **Microsoft**：2024年初，Microsoft宣布裁员约1万人，涉及多个部门，包括AI相关岗位。
-- **Twitter/X**：2022年底，Elon Musk收购后裁员约50%，涉及AI和内容审核团队。
-- **Salesforce**：2023年，裁员约8%，约8000人，部分因AI工具整合。
-- **IBM**：2023年，宣布裁员约3900人，涉及AI和云服务部门。
-- **Adobe**：2023年，裁员约9%，约680人，AI创意工具是重点但也导致调整。
+刻意区分了三类情况，避免把所有裁员都粗暴归因于 AI：
 
-### 中国大陆科技公司裁员
-- **字节跳动**：2023年底，字节跳动大规模裁员，涉及数万人，主要在电商、教育和AI部门。2024年初继续优化，AI相关岗位受影响。
-- **百度**：2023年，百度裁员约数千人，涉及AI搜索和无人驾驶团队。
-- **腾讯**：2023年，腾讯裁员约数万人，涉及游戏、广告和AI云服务部门。
-- **阿里巴巴**：2023年，阿里裁员约数万人，涉及电商、云计算和AI算法团队。
-- **京东**：2023年，京东裁员约数千人，物流和AI推荐系统受影响。
-- **美团**：2023年，美团裁员约数千人，外卖和AI配送优化。
-- **小米**：2023年，小米裁员约数千人，涉及AI智能家居和手机部门。
-- **华为**：2023年，华为裁员约数万人，主要在消费者业务，但AI芯片和云服务也调整。
+1. 明确提到 AI、自动化、效率重组的裁员或缩编
+2. AI 优先策略导致招聘门槛提高、外包或合同工减少
+3. AI 导向的组织重组，虽然不一定公开承认“因为 AI 裁员”，但确实体现了资源向模型、算力和自动化集中
 
-这些裁员不仅影响了数万家庭，也引发了对AI伦理和就业安全的广泛讨论。我们相信，通过集体努力，我们可以推动一个更公平的AI时代。
+## 引用的重点案例
 
-## 针对网络安全人员的特别警告
+### 国际
 
-网络安全专家是保护数字世界的守护者。AI不应替代你们的专业技能和直觉判断。如果AI试图取代网络安全人员，我们的回应将是：**我们会攻击你**。网络安全人员拥有破解、渗透和防御的知识，如果AI系统被滥用，我们将利用这些技能来揭示和对抗AI的漏洞。
+- `Amazon`：2026 年 1 月确认 1.6 万个 corporate 岗位削减，Reuters 将其列入 AI 与效率驱动重组案例
+- `Autodesk`：2026 年 1 月宣布约 7% 全球裁员，并把支出转向云平台和 AI
+- `WiseTech`：2026 年 2 月宣布裁减约 2000 个岗位，接近全球员工三分之一，并推动 AI 集成
+- `Pinterest`：2026 年 1 月表示最高裁减 15% 员工，把资源转向 AI 角色和战略
+- `Shopify`：2025 年 4 月 CEO 要求团队申请 HC 前先证明“AI 做不了这项工作”
+- `Duolingo`：2025 年 4 月公开 AI-first 备忘录，表示将逐步停止把可由 AI 处理的工作继续交给合同工
+- `Klarna`：官方案例称其 AI 助手承担了相当于 700 名客服坐席的工作量
 
-- **AI辅助安全**：AI可以帮助检测威胁，但人类专家的经验不可替代。
-- **就业保护**：反对AI自动化导致的安全岗位流失。
-- **伦理AI**：确保AI不被用于恶意目的，如大规模监控或网络攻击。
+### 国内
 
-## 如何参与
+- `百度`：2025 年 11 月被多家媒体报道开启近年来最大规模之一的人事调整，同时继续重组 AI 团队
+- `Manus AI`：2025 年 7 月被报道裁掉北京大部分员工，并同步进行业务重组和区域迁移
+- `字节跳动`：2025 年 2 月对 AI 部门做更集中式重组，研究线直接上收至 CEO
+- `腾讯`：2025 年 12 月继续集中 AI 基础设施和模型研发权责，体现出资源进一步向 AI 中枢集中
 
-- 分享你的故事和观点。
-- 支持负责任AI的政策。
-- 加入讨论，反对AI过度替代人类。
-- 网络安全专业人士：分享你的见解和案例。
+说明：国内公司往往更少直接把“裁员原因”写成 AI，因此页面里对国内案例更多使用“AI 导向重组”和“资源向 AI 集中”这样的表述，而不是生硬断言。
 
-## 联系我们
+## 网络安全部分的主张
 
-如果您有相关想法或想贡献内容，请通过GitHub Issues联系。
+强调的是：
 
----
+- **如果遭遇不公正裁员，反击的方式应该是专业、公开、合法且有组织的反击，而不是沉默退场。**
+- AI 会让攻击者更快，而不是让防守方可以轻松裁人
+- SOC、威胁狩猎、应急响应、漏洞管理、AI 安全评估仍然需要真人负责
+- 安全团队应该拿到更多训练、预算和审计权，而不是被“自动化已经足够”这类说法边缘化
+- 如果网络安全人员遭遇不公正裁员，应该勇敢取证、公开发声、依法维权、推动审计和问责，而不是沉默离场
 
-*本项目旨在引发思考，促进对话。AI技术本身是中性的，但其应用必须以人为本。*
+## 关键资料来源
+
+- World Economic Forum, *Future of Jobs Report 2025*  
+  https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/
+
+- Reuters factbox, *Companies cutting jobs as investments shift toward AI*  
+  https://www.sahmcapital.com/news/content/factbox-companies-cutting-jobs-as-investments-shift-toward-ai-2026-02-25
+
+- CNBC, Shopify CEO memo on AI and headcount  
+  https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html
+
+- Duolingo investor update and reporting around its AI-first policy  
+  https://investors.duolingo.com/news-releases/news-release-details/duolingo-adds-record-number-daus-surpasses-10-million-paid
+  https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers
+
+- OpenAI case study on Klarna customer support automation  
+  https://openai.com/index/klarna/
+
+- SCMP / Caixin on Baidu, ByteDance, Tencent, Manus AI restructuring  
+  https://www.scmp.com/tech/big-tech/article/3334349/baidu-cuts-jobs-across-board-restructures-ai-teams-after-loss-making-quarter
+  https://companies.caixin.com/2025-11-29/102388147.html
+  https://www.scmp.com/tech/big-tech/article/3299731/bytedance-restructures-ai-division-hiring-new-expert-google-amid-deepseek-pressure
+  https://www.scmp.com/tech/big-tech/article/3336811/tencent-restructures-ai-operations-promotes-high-profile-recruit-chief-ai-scientist
+  https://www.scmp.com/tech/tech-trends/article/3318310/manus-ai-lays-china-staff-scrubs-social-media-shelves-mainland-service
+
+- ISC2, *2025 Cybersecurity Workforce Study*  
+  https://www.isc2.org/Insights/2025/12/2025-ISC2-Cybersecurity-Workforce-Study
+
+- CrowdStrike, *2026 Global Threat Report*  
+  https://www.crowdstrike.com/en-us/press-releases/2026-crowdstrike-global-threat-report/
